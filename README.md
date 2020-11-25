@@ -28,11 +28,6 @@ Sou ***desenvolvedor front-end***, atuo no mercado a 2 anos e sou estudante na F
 <p align="left">
   <img src="./img/angular.svg" alt="angular">
   <img src="./img/react.svg" alt="react">
-</p>
-
-
-### Linguagens 
-<p align="left">
   <img src="./img/html.svg" alt="html">
   <img src="./img/css3.svg" alt="css">
   <img src="./img/js.svg" alt="js">
@@ -46,3 +41,5 @@ Sou ***desenvolvedor front-end***, atuo no mercado a 2 anos e sou estudante na F
   <img src="./img/nodejs.svg" alt="node">
   <img src="./img/sass.svg" alt="sass">
 </p>
+
+![Lucas](https://github-readme-stats.vercel.app/api?username=nogueira-lucas)
