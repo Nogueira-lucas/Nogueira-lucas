@@ -11,15 +11,15 @@ Sou ***desenvolvedor front-end***, atuo no mercado a 2 anos e sou estudante na F
     <img src="./img/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px"/>
   </a>
   
-  <a href="">
+  <a href="https://twitter.com/nogueiratdm">
     <img src="./img/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
   </a>
 
-  <a href="">
+  <a href="https://www.linkedin.com/in/lnogueiratdm/">
     <img src="./img/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>
 
-  <a href="">
+  <a href="https://medium.com/@lucasnogueira_90384">
     <img src="./img/medium.svg" alt="medium" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
