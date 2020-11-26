@@ -24,14 +24,13 @@ Sou ***desenvolvedor front-end***, atuo no mercado a 2 anos e sou estudante na F
   </a>
 </p>
 
-### Frameworks Front-end
+### Tecnologias
 <p align="left">
   <img src="./img/angular.svg" alt="angular">
   <img src="./img/react.svg" alt="react">
   <img src="./img/html.svg" alt="html">
   <img src="./img/css3.svg" alt="css">
   <img src="./img/js.svg" alt="js">
-  <img src="./img/java.svg" alt="java">
 </p>
 
 ### Ferramentas e outros truques
