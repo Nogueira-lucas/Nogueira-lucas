@@ -7,9 +7,6 @@ Sou ***desenvolvedor front-end***, atuo profissionalmente há 2 anos e sou estud
 ### Siga-me nas redes sociais:
 
 <p align="left">
-  <a href="https://www.instagram.com/nogueira.lukas">
-    <img src="./img/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px"/>
-  </a>
   
   <a href="https://twitter.com/nogueiratdm">
     <img src="./img/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
