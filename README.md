@@ -7,8 +7,11 @@ Sou ***desenvolvedor web***, atuo profissionalmente há 3 anos e sou estudante n
    <img align="right" width="300" height="300" alt="img" src="https://user-images.githubusercontent.com/20306466/125015457-e7b9a280-e045-11eb-85d5-ca34391a07bc.jpeg" width="50%" height="auto"/>
 
 ###  :computer: Habilidades Técnicas:
-   - Java
-   - EcmaScript
+   - Desenvolvimento de Web-API's em Java
+   - Desenvolvimento de páginas web com EcmaScript(JS)
+   - Modelagem e análise orientada a objetos
+   - UML e Desing Patterns
+   
 ### :space_invader: Frameworks (que eu sei agora):
    - Angular 2+
    - ReactJS
