@@ -1,6 +1,6 @@
 ## Saudações!! Bem vindo ao meu perfil! 👋 :wink:
 
-Sou ***desenvolvedor web***, atuo profissionalmente há 3 anos e sou estudante na Fatec de Mogi das Cruzes:mortar_board:<br/>
+Sou ***desenvolvedor web***, atuo profissionalmente há 3 anos e sou formado na Fatec de Mogi das Cruzes:mortar_board:<br/>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lnogueiratdm/) ![Twitter](https://img.shields.io/twitter/url?logo=twitter&url=https%3A%2F%2Ftwitter.com%2Fnogueiradev_)
    
