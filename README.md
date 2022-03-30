@@ -5,12 +5,12 @@
 <div align="left">
   <div>
     <span>👨🏿‍💻 I'm software developer with focus in web</span><br>
-    <span>🎓 Graduated System Analyst Tech</span><br>
+    <span>🎓 Graduated System Analyst</span><br>
     <span>🎮 Game lover</span><br>
   </div>
 </div>
 
-<img align="right" src="https://user-images.githubusercontent.com/20306466/160743727-97a70f06-9ba6-436c-8f3d-6b06d065b9a8.png">
+<img height="150px" align="right" src="https://user-images.githubusercontent.com/20306466/160743727-97a70f06-9ba6-436c-8f3d-6b06d065b9a8.png">
 
 <br>
 <div>
