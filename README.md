@@ -9,6 +9,9 @@
     <span>🎮 Game lover</span><br>
   </div>
 </div>
+
+<img align="right" src="https://user-images.githubusercontent.com/20306466/160743727-97a70f06-9ba6-436c-8f3d-6b06d065b9a8.png">
+
 <br>
 <div>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
