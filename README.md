@@ -6,7 +6,7 @@
   <div>
     <span>👨🏿‍💻 I'm software developer with focus in web</span><br>
     <span>🎓 Graduated System Analyst</span><br>
-    <span>🎮 Game lover</span><br>
+    <span>🎮 Gamer</span><br>
   </div>
 </div>
 
