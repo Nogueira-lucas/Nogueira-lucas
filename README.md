@@ -1,6 +1,6 @@
 <div align="left">
   <h2>Hello, I'm Lucas :)</h2>
-  <p>Hello, glad to see you 😄Technical with aproach focus on web development and application. Searching learn more about new technologies and concepts. Special Skills: Front-end</p>
+  <p>Hello, glad to see you 😄 <br> I'm brazilian Technical with aproach focus on web development and application. Searching learn more about new technologies and concepts. <br> **Special Skills**: Front-end and Design</p>
 </div>
 <div align="left">
   <div>
