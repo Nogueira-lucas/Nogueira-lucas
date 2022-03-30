@@ -5,7 +5,7 @@
 <div align="left">
   <div>
     <span>👨🏿‍💻 I'm software developer with focus in web</span><br>
-    <span>🎓 Graduated Developer Analist Technological</span><br>
+    <span>🎓 Graduated System Analyst Tech</span><br>
     <span>🎮 Game lover</span><br>
   </div>
 </div>
