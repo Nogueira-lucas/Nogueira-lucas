@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </div>
-<br>
 <div align="left">
   <a href="https://github.com/Nogueira-lucas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nogueira-lucas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
